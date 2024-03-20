@@ -6,7 +6,7 @@
 -  🤝 I’m looking for  **Data Analytics, Business Analytics, Data Engineering and Data Science roles.**
 
 - 📫 How to reach me: [Outlook](mailto:jibhanu@iu.edu")
-- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/16QL2_d8Romg3aOfP2Quc2cOwdiN6lWdJ/view?usp=sharing](https://drive.google.com/file/d/1u7-PV5GNSOzjem2DdzASuxQrc9oPV6Sn/view?usp=sharing))
+- 📄 Know about my experiences: [Resume]([[https://drive.google.com/file/d/16QL2_d8Romg3aOfP2Quc2cOwdiN6lWdJ/view?usp=sharing](https://drive.google.com/file/d/1u7-PV5GNSOzjem2DdzASuxQrc9oPV6Sn/view?usp=sharing)](https://drive.google.com/file/d/1u7-PV5GNSOzjem2DdzASuxQrc9oPV6Sn/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
